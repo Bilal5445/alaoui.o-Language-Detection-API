@@ -1,0 +1,57 @@
+F:\work\DialogueMaster.Babel\WinSample\obj\Debug\WinSample.csprojResolveAssemblyReference.cache
+F:\work\DialogueMaster.Babel\WinSample\obj\Debug\WinSample.DemoForm.resources
+F:\work\DialogueMaster.Babel\WinSample\obj\Debug\WinSample.Properties.Resources.resources
+F:\work\DialogueMaster.Babel\WinSample\obj\Debug\WinSample.csproj.GenerateResource.Cache
+F:\work\DialogueMaster.Babel\WinSample\obj\Debug\WinSample.exe
+F:\work\DialogueMaster.Babel\WinSample\obj\Debug\WinSample.pdb
+F:\work1\DialogueMaster.Babel\WinSample\bin\Debug\WinSample.exe.manifest
+F:\work1\DialogueMaster.Babel\WinSample\bin\Debug\WinSample.application
+F:\work1\DialogueMaster.Babel\WinSample\bin\Debug\WinSample.exe
+F:\work1\DialogueMaster.Babel\WinSample\bin\Debug\WinSample.pdb
+F:\work1\DialogueMaster.Babel\WinSample\bin\Debug\DialogueMaster.Babel.dll
+F:\work1\DialogueMaster.Babel\WinSample\bin\Debug\DialogueMaster.Babel.pdb
+F:\work1\DialogueMaster.Babel\WinSample\obj\Debug\WinSample.csprojResolveAssemblyReference.cache
+F:\work1\DialogueMaster.Babel\WinSample\obj\Debug\WinSample.DemoForm.resources
+F:\work1\DialogueMaster.Babel\WinSample\obj\Debug\WinSample.Properties.Resources.resources
+F:\work1\DialogueMaster.Babel\WinSample\obj\Debug\WinSample.csproj.GenerateResource.Cache
+F:\work1\DialogueMaster.Babel\WinSample\obj\Debug\WinSample.exe.manifest
+F:\work1\DialogueMaster.Babel\WinSample\obj\Debug\WinSample.application
+F:\work1\DialogueMaster.Babel\WinSample\obj\Debug\WinSample.exe
+F:\work1\DialogueMaster.Babel\WinSample\obj\Debug\WinSample.pdb
+F:\work1\DialogueMaster.Babel\WinSample\obj\Debug\WinSample.csproj.ResolveComReference.cache
+D:\eeniart\Lengudete\work\DialogueMaster.Babel\WinSample\bin\Debug\WinSample.exe.config
+D:\eeniart\Lengudete\work\DialogueMaster.Babel\WinSample\obj\Debug\WinSample.csproj.ResolveComReference.cache
+D:\eeniart\Lengudete\work\DialogueMaster.Babel\WinSample\obj\Debug\WinSample.exe
+D:\eeniart\Lengudete\work\DialogueMaster.Babel\WinSample\obj\Debug\WinSample.pdb
+D:\eeniart\Lengudete\work\DialogueMaster.Babel\WinSample\obj\Debug\WinSample.csprojResolveAssemblyReference.cache
+D:\eeniart\Lengudete\work\DialogueMaster.Babel\WinSample\obj\Debug\WinSample.DemoForm.resources
+D:\eeniart\Lengudete\work\DialogueMaster.Babel\WinSample\obj\Debug\WinSample.Properties.Resources.resources
+D:\eeniart\Lengudete\work\DialogueMaster.Babel\WinSample\obj\Debug\WinSample.csproj.GenerateResource.Cache
+D:\eeniart\Lengudete\work\DialogueMaster.Babel\WinSample\bin\Debug\WinSample.exe.manifest
+D:\eeniart\Lengudete\work\DialogueMaster.Babel\WinSample\bin\Debug\WinSample.application
+D:\eeniart\Lengudete\work\DialogueMaster.Babel\WinSample\bin\Debug\WinSample.exe
+D:\eeniart\Lengudete\work\DialogueMaster.Babel\WinSample\bin\Debug\WinSample.pdb
+D:\eeniart\Lengudete\work\DialogueMaster.Babel\WinSample\bin\Debug\DialogueMaster.Babel.dll
+D:\eeniart\Lengudete\work\DialogueMaster.Babel\WinSample\bin\Debug\DialogueMaster.Babel.pdb
+D:\eeniart\Lengudete\work\DialogueMaster.Babel\WinSample\obj\Debug\WinSample.exe.manifest
+D:\eeniart\Lengudete\work\DialogueMaster.Babel\WinSample\obj\Debug\WinSample.application
+E:\work\Fiverr\alaoui o\LD code\ON  vaqi git\work\DialogueMaster.Babel\WinSample\bin\Debug\WinSample.exe.config
+E:\work\Fiverr\alaoui o\LD code\ON  vaqi git\work\DialogueMaster.Babel\WinSample\obj\Debug\WinSample.csproj.ResolveComReference.cache
+E:\work\Fiverr\alaoui o\LD code\ON  vaqi git\work\DialogueMaster.Babel\WinSample\obj\Debug\WinSample.exe
+E:\work\Fiverr\alaoui o\LD code\ON  vaqi git\work\DialogueMaster.Babel\WinSample\obj\Debug\WinSample.pdb
+E:\work\Fiverr\alaoui o\LD code\ON  vaqi git\work\DialogueMaster.Babel\WinSample\obj\Debug\WinSample.csprojResolveAssemblyReference.cache
+E:\work\Fiverr\alaoui o\LD code\ON  vaqi git\work\DialogueMaster.Babel\WinSample\obj\Debug\WinSample.DemoForm.resources
+E:\work\Fiverr\alaoui o\LD code\ON  vaqi git\work\DialogueMaster.Babel\WinSample\obj\Debug\WinSample.Properties.Resources.resources
+E:\work\Fiverr\alaoui o\LD code\ON  vaqi git\work\DialogueMaster.Babel\WinSample\obj\Debug\WinSample.csproj.GenerateResource.Cache
+E:\work\Fiverr\alaoui o\LD code\ON  vaqi git\work\DialogueMaster.Babel\WinSample\bin\Debug\WinSample.exe.manifest
+E:\work\Fiverr\alaoui o\LD code\ON  vaqi git\work\DialogueMaster.Babel\WinSample\bin\Debug\WinSample.application
+E:\work\Fiverr\alaoui o\LD code\ON  vaqi git\work\DialogueMaster.Babel\WinSample\bin\Debug\WinSample.exe
+E:\work\Fiverr\alaoui o\LD code\ON  vaqi git\work\DialogueMaster.Babel\WinSample\bin\Debug\WinSample.pdb
+E:\work\Fiverr\alaoui o\LD code\ON  vaqi git\work\DialogueMaster.Babel\WinSample\bin\Debug\DialogueMaster.Babel.dll
+E:\work\Fiverr\alaoui o\LD code\ON  vaqi git\work\DialogueMaster.Babel\WinSample\bin\Debug\DialogueMaster.Babel.pdb
+E:\work\Fiverr\alaoui o\LD code\ON  vaqi git\work\DialogueMaster.Babel\WinSample\obj\Debug\WinSample.exe.manifest
+E:\work\Fiverr\alaoui o\LD code\ON  vaqi git\work\DialogueMaster.Babel\WinSample\obj\Debug\WinSample.application
+E:\work\Fiverr\alaoui o\LD code\on git\work\DialogueMaster.Babel\WinSample\bin\Debug\WinSample.exe.config
+E:\work\Fiverr\alaoui o\LD code\on git\work\DialogueMaster.Babel\WinSample\obj\Debug\WinSample.csproj.ResolveComReference.cache
+E:\work\Fiverr\alaoui o\LD code\on git\work\DialogueMaster.Babel\WinSample\obj\Debug\WinSample.exe
+E:\work\Fiverr\alaoui o\LD code\on git\work\DialogueMaster.Babel\WinSample\obj\Debug\WinSample.pdb

@@ -1,0 +1,32 @@
+F:\work\DialogueMaster.Babel\bin\Debug\DialogueMaster.Babel.dll.config
+F:\work\DialogueMaster.Babel\bin\Debug\DialogueMaster.Babel.dll
+F:\work\DialogueMaster.Babel\bin\Debug\DialogueMaster.Babel.pdb
+F:\work\DialogueMaster.Babel\obj\Debug\DialogueMaster.Babel.Installer.resources
+F:\work\DialogueMaster.Babel\obj\Debug\DialogueMaster.Babel.csproj.GenerateResource.Cache
+F:\work\DialogueMaster.Babel\obj\Debug\DialogueMaster.Babel.dll
+F:\work\DialogueMaster.Babel\obj\Debug\DialogueMaster.Babel.pdb
+F:\work\DialogueMaster.Babel\obj\Debug\DialogueMaster.Babel.csprojResolveAssemblyReference.cache
+F:\work1\DialogueMaster.Babel\bin\Debug\DialogueMaster.Babel.dll.config
+F:\work1\DialogueMaster.Babel\bin\Debug\DialogueMaster.Babel.dll
+F:\work1\DialogueMaster.Babel\bin\Debug\DialogueMaster.Babel.pdb
+F:\work1\DialogueMaster.Babel\obj\Debug\DialogueMaster.Babel.csprojResolveAssemblyReference.cache
+F:\work1\DialogueMaster.Babel\obj\Debug\DialogueMaster.Babel.Installer.resources
+F:\work1\DialogueMaster.Babel\obj\Debug\DialogueMaster.Babel.csproj.GenerateResource.Cache
+F:\work1\DialogueMaster.Babel\obj\Debug\DialogueMaster.Babel.dll
+F:\work1\DialogueMaster.Babel\obj\Debug\DialogueMaster.Babel.pdb
+D:\eeniart\Lengudete\work\DialogueMaster.Babel\bin\Debug\DialogueMaster.Babel.dll.config
+D:\eeniart\Lengudete\work\DialogueMaster.Babel\bin\Debug\DialogueMaster.Babel.dll
+D:\eeniart\Lengudete\work\DialogueMaster.Babel\bin\Debug\DialogueMaster.Babel.pdb
+D:\eeniart\Lengudete\work\DialogueMaster.Babel\obj\Debug\DialogueMaster.Babel.csprojResolveAssemblyReference.cache
+D:\eeniart\Lengudete\work\DialogueMaster.Babel\obj\Debug\DialogueMaster.Babel.Installer.resources
+D:\eeniart\Lengudete\work\DialogueMaster.Babel\obj\Debug\DialogueMaster.Babel.csproj.GenerateResource.Cache
+D:\eeniart\Lengudete\work\DialogueMaster.Babel\obj\Debug\DialogueMaster.Babel.dll
+D:\eeniart\Lengudete\work\DialogueMaster.Babel\obj\Debug\DialogueMaster.Babel.pdb
+E:\work\Fiverr\alaoui o\LD code\ON  vaqi git\work\DialogueMaster.Babel\bin\Debug\DialogueMaster.Babel.dll.config
+E:\work\Fiverr\alaoui o\LD code\ON  vaqi git\work\DialogueMaster.Babel\bin\Debug\DialogueMaster.Babel.dll
+E:\work\Fiverr\alaoui o\LD code\ON  vaqi git\work\DialogueMaster.Babel\bin\Debug\DialogueMaster.Babel.pdb
+E:\work\Fiverr\alaoui o\LD code\ON  vaqi git\work\DialogueMaster.Babel\obj\Debug\DialogueMaster.Babel.csprojResolveAssemblyReference.cache
+E:\work\Fiverr\alaoui o\LD code\ON  vaqi git\work\DialogueMaster.Babel\obj\Debug\DialogueMaster.Babel.Installer.resources
+E:\work\Fiverr\alaoui o\LD code\ON  vaqi git\work\DialogueMaster.Babel\obj\Debug\DialogueMaster.Babel.csproj.GenerateResource.Cache
+E:\work\Fiverr\alaoui o\LD code\ON  vaqi git\work\DialogueMaster.Babel\obj\Debug\DialogueMaster.Babel.dll
+E:\work\Fiverr\alaoui o\LD code\ON  vaqi git\work\DialogueMaster.Babel\obj\Debug\DialogueMaster.Babel.pdb
